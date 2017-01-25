@@ -1,2 +1,2 @@
 # static
-Static Website
+static site test for jenkins
